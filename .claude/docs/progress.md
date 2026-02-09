@@ -44,6 +44,18 @@
   - 함수 분리, 서비스 레이어, 중복 제거
   - 쿼리 최적화, 설정값 추출
 
+### 에이전트 및 자동화 스킬
+- [x] be-developer 에이전트 설정
+  - 4개 백엔드 스킬 연결
+  - Opus 모델 사용
+
+- [x] fe-developer 에이전트 설정
+  - 프론트엔드 개발 에이전트
+
+- [x] git-commit 스킬
+  - git add, commit, push 자동화
+  - progress.md 작업 기록 자동화
+
 ## 다음 작업
 - [ ] Next.js 프로젝트 초기화 (package.json, tsconfig.json 등)
 - [ ] 테스트 환경 설정 (jest.config.js, jest.setup.js)
