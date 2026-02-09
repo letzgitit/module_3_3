@@ -21,6 +21,12 @@
   - 기능별 테스트 체크리스트
   - 코드 리뷰 가이드 및 커버리지 목표
 
+- [x] 백엔드 테스트 가이드 작성 (be-code-review skill)
+  - Python Flask + pytest 설정
+  - API 엔드포인트, 비즈니스 로직, DB 테스트
+  - Mock/Fixture를 사용한 테스트 데이터 생성
+  - 기능별 체크리스트 및 안티패턴
+
 ## 다음 작업
 - [ ] Next.js 프로젝트 초기화 (package.json, tsconfig.json 등)
 - [ ] 테스트 환경 설정 (jest.config.js, jest.setup.js)
