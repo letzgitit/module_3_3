@@ -9,7 +9,6 @@
 | 프레임워크 | Next.js 16 (App Router) |
 | 언어 | TypeScript |
 | 스타일링 | Tailwind CSS v4 |
-| 번들러 | Turbopack |
 
 ## 시작하기
 
