@@ -27,6 +27,23 @@
   - Mock/Fixture를 사용한 테스트 데이터 생성
   - 기능별 체크리스트 및 안티패턴
 
+### 백엔드 개발 스킬 구성 (be-developer 에이전트)
+- [x] be-test-code: 백엔드 테스트 코드 작성
+  - pytest 기반 API/로직/DB 테스트
+  - 예외 처리 및 체크리스트
+
+- [x] be-debugging: 백엔드 디버깅
+  - Flask 디버그 모드, pdb, 로깅
+  - API/DB/성능/메모리 문제 해결
+
+- [x] be-CRUD: RESTful CRUD API 구현
+  - Create, Read, Update, Delete 표준 패턴
+  - 에러 핸들링, 유효성 검증, 페이지네이션
+
+- [x] be-refactoring: 코드 리팩토링
+  - 함수 분리, 서비스 레이어, 중복 제거
+  - 쿼리 최적화, 설정값 추출
+
 ## 다음 작업
 - [ ] Next.js 프로젝트 초기화 (package.json, tsconfig.json 등)
 - [ ] 테스트 환경 설정 (jest.config.js, jest.setup.js)
